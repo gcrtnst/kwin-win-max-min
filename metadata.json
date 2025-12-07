@@ -1,0 +1,20 @@
+{
+  "KPackageStructure": "KWin/Script",
+  "KPlugin": {
+    "Name": "Windows-Like Maximize/Minimize",
+    "Description": "Adds Windows-like Win+Up (Maximize) and Win+Down (Minimize) shortcuts",
+    "Icon": "preferences-system-windows",
+    "Authors": [
+      {
+        "Email": "52910071+gcrtnst@users.noreply.github.com",
+        "Name": "gcrtnst"
+      }
+    ],
+    "Id": "kwin-snap-keys",
+    "Version": "0.1.0",
+    "License": "Unlicense",
+    "Website": "https://github.com/gcrtnst/kwin-win-max-min"
+  },
+  "X-Plasma-API": "javascript",
+  "X-Plasma-MainScript": "code/main.js"
+}
