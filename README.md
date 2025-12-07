@@ -42,7 +42,7 @@ After enabling the script, you must assign the new actions to your desired key b
 
 The default KWin shortcuts use `Meta + Up` for "Quick Tile Window to the Top" and `Meta + Down` for "Quick Tile Window to the Bottom".
 
-When you assign the new "Windows Maximize" and "Windows Minimize" actions to `Meta + Up` and `Meta + Down`, respectively, these new actions will take priority, overriding the default quick-tiling behavior for those keys. The standard quick-tiling for `Meta + Left` and `Meta + Right` will remain unaffected.
+When you assign the new "Windows-Like Maximize" and "Windows-Like Minimize" actions to `Meta + Up` and `Meta + Down`, respectively, these new actions will take priority, overriding the default quick-tiling behavior for those keys. The standard quick-tiling for `Meta + Left` and `Meta + Right` will remain unaffected.
 
 ## Scope
 
